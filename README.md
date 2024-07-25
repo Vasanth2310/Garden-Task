@@ -9,9 +9,13 @@ This repository contains documentation proving the completion of the specified t
 
 ## LocalNet Dapp
 
-Leveraging the Garden SDK, this project focuses on creating a decentralized application for secure medical image analysis. Healthcare providers can upload medical images to be analyzed by sophisticated AI algorithms, ensuring data integrity and security through the Garden SDK's Bitcoin cross-chain capabilities. Payments for services are managed transparently and securely. The application also includes a crowdfunding feature, enabling the community to provide financial assistance to patients in need of emergency medical funds. This integration of AI-driven analysis and decentralized financial support aims to improve diagnostic accuracy and streamline funding for urgent medical care.
+Leveraging the Garden SDK, this project focuses on creating a **decentralized application for secure medical image analysis**. Healthcare providers can upload **medical images to be analyzed by sophisticated AI algorithms**, ensuring data integrity and security through the Garden SDK's Bitcoin cross-chain capabilities. **Payments for services are managed transparently and securely.** The application also includes a **crowdfunding feature**, enabling the community to provide financial assistance to patients in need of emergency medical funds. This integration of AI-driven analysis and decentralized financial support aims to improve diagnostic accuracy and streamline funding for urgent medical care.
 
-For this Prototype we have built the LocalNet Dapp to transfer between BTC and WBTC.
+**Here's How this Dapp works**
+
+![Please visit the Assets Folder if Image is not displayed](https://github.com/Vasanth2310/Garden-Task/blob/94a0aba288161875d150a0ed9b85d2841082606d/Assets/Dapp%20for%20Medical%20Image%20Analysis.jpeg)
+
+**For this Prototype we have built the LocalNet Dapp to transfer between BTC and WBTC.**
 
 ## LocalNet Environment Setup
 
