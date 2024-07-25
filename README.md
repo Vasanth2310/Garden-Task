@@ -59,7 +59,7 @@ bun install
 bun run dev
 ```
 
-## My Transaction on LocalNet
+## LocalNet Transaction Results
 
 The dApp that I have created and the transaction held on it are as follows
 
@@ -75,3 +75,6 @@ The dApp that I have created and the transaction held on it are as follows
    - Get testnet BTC from the [Faucet](https://faucet-v1.netlify.app/).
    - Complete a swap on [Testnet](https://testnet.garden.finance).
 
+## TestNet Transaction Results
+
+![Please visit the Assets Folder if Image is not displayed](https://github.com/Vasanth2310/Garden-Task/blob/d550efe11f6cd240a5fd82e9beb5424d6462dfb7/Assets/Screenshot%20(90).png)
