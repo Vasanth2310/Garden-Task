@@ -68,3 +68,10 @@ The dApp that I have created and the transaction held on it are as follows
 ![Please visit the Assets Folder if Image is not displayed](https://github.com/Vasanth2310/Garden-Task/blob/41b5a68f4c84c82f4c508d4cd7289b13d487531c/Assets/Screenshot%20(89).png)
 ![Please visit the Assets Folder if Image is not displayed](https://github.com/Vasanth2310/Garden-Task/blob/41b5a68f4c84c82f4c508d4cd7289b13d487531c/Assets/Screenshot%20(88).png)
 ![Please visit the Assets Folder if Image is not displayed](https://github.com/Vasanth2310/Garden-Task/blob/41b5a68f4c84c82f4c508d4cd7289b13d487531c/Assets/Screenshot%20(87).png)
+
+## TestNet Setup 
+
+   - Review [BTC-WBTC Swap Guide](https://docs.garden.finance/home/basics/guides/btc-wbtc).
+   - Get testnet BTC from the [Faucet](https://faucet-v1.netlify.app/).
+   - Complete a swap on [Testnet](https://testnet.garden.finance).
+
